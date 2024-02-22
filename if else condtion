@@ -1,0 +1,10 @@
+salary=int(input("Salary:"))
+age=int(input("Age"))
+if(salary>=20000 or age<=25):
+    amount=int(input("Enter the required amount:"))
+  if(amount<50000):
+       print("you are eligible for loan")
+  else:
+      print("The maximum loan amount is 50000")
+else:
+    print("you are not elgible for loan")
