@@ -1,0 +1,58 @@
+Introduction: Python Interpreter and interactive mode, Comments, Identifiers and Keywords; Data Types;
+Variables and Expressions; Operators; Conditional Statements; Looping Statements; Fruitful Functions; Lambda
+Function
+Illustrative Programs: Financial application, sandwich vowel , and Chocolate Distribution Algorithm
+
+
+
+Introduction to Python
+Python Interpreter and Interactive Mode
+The Python interpreter is a program that reads and executes Python code. It can be used in two main modes:
+
+Interactive Mode: This allows you to type Python commands and see the results immediately. You can start it by typing python or python3 in your command line.
+Script Mode: You write your Python code in a file with a .py extension and run the file through the interpreter.
+Comments
+Comments are used to explain code and make it more readable. They are ignored by the interpreter.
+
+Single-line comments start with #.
+Multi-line comments can be created using triple quotes (''' or """).
+Identifiers and Keywords
+Identifiers: Names used to identify variables, functions, classes, modules, and objects. They must start with a letter or an underscore (_) and can be followed by letters, digits, or underscores.
+Keywords: Reserved words in Python that have special meanings. Examples include if, else, while, for, try, import, etc. You cannot use keywords as identifiers.
+Data Types
+Python supports various data types including:
+
+Numbers: int, float, complex
+Strings: str
+Lists: list
+Tuples: tuple
+Dictionaries: dict
+Sets: set
+Booleans: bool
+Variables and Expressions
+Variables: Store data values. They are created when you assign a value to them.
+Expressions: Combinations of values and operators that can be evaluated to produce another value.
+Operators
+Python supports various operators including:
+
+Arithmetic Operators: +, -, *, /, %, **, //
+Comparison Operators: ==, !=, >, <, >=, <=
+Logical Operators: and, or, not
+Assignment Operators: =, +=, -=, *=, /=, %=, **=, //=
+Bitwise Operators: &, |, ^, ~, <<, >>
+Conditional Statements
+Conditional statements are used to execute code based on certain conditions. They include if, elif, and else.
+
+Looping Statements
+Loops are used to execute a block of code repeatedly.
+
+For Loop: Iterates over a sequence (e.g., list, tuple, string).
+
+While Loop: Repeats as long as a condition is true.
+
+Fruitful Functions
+Functions that return a value using the return statement.
+
+Lambda Functions
+Anonymous functions defined using the lambda keyword. They can have any number of arguments but only one expression.
+
